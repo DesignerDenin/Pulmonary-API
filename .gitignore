@@ -2,5 +2,5 @@
 .DS_Store
 .history/
 .venv/
-labels/labels.pkl
-features/feats.pkl
+*labels.pkl
+*feats.pkl
