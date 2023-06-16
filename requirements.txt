@@ -1,0 +1,13 @@
+imblearn
+flask
+flask_cors
+Keras
+librosa
+numpy
+Pillow
+pyrsistent
+resampy
+scikit-learn
+scipy
+soundfile
+tensorflow
