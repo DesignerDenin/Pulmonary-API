@@ -9,4 +9,5 @@
         2. On Windows: `<name>\Scripts\activate`
 4. Install packages/dependencies `pip install -r requirements.txt`
 5. Run server using `python app.py`
-6. Copy the IP Address start with `192.` to the App's `...` button beside the `Upload Audio` button (**IMPORTANT**)
+6. Copy the IP Address start with `192.`
+7. Click`...` button beside the `Upload Audio` button in the Website. Update the address to copied address (**IMPORTANT**)
