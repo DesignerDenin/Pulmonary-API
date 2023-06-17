@@ -1,6 +1,6 @@
 # Steps to run API locally
 1. Download the repo
-    1. Preferable to use `git pull` as the file `featers/feats.pkl` was uploaded using Git LFS. Standard downloading as ZIP might not download it. Although that file isn't necessary for the API.
+    1. Preferable to use `git pull` as the file `features/feats.pkl` was uploaded using Git LFS. Standard downloading as ZIP might not download it. Although that file isn't necessary for the API.
 2. Get into the repo
 3. Initialise a Virtual Environment (optional)
     1. Use `python -m venv <name>` to create virtual environment
