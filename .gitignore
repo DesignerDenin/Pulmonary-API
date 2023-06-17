@@ -2,5 +2,3 @@
 .DS_Store
 .history/
 .venv/
-*labels.pkl
-*feats.pkl
