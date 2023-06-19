@@ -6,6 +6,6 @@
     1. Use `python -m venv <name>` to create virtual environment
     2. Get into virtual environment
         1. On MacOS/Linux: `source <name>/bin/activate`
-        2. On Windows: `<name>\Scripts\activate`
+        2. On Windows: `.\<name>\Scripts\activate`
 4. Install packages/dependencies `pip install -r requirements.txt`
 5. Run server using `python app.py`
